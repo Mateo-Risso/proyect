@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+build/
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+/mobile_app/android/
+/mobile_app/ios/
+/mobile_app/windows/
+/mobile_app/linux/
+/mobile_app/macos/
+*.ipr
+*.iml
+*.iws
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
